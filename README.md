@@ -30,8 +30,26 @@
 - 2 meniuri
 - drepturi autor
 
-Proiectul se ruleaza prin cele 3 limbaje
+Proiectul a fost creat cu ajutorul celor 3 limbaje
 
 - HTML - parte Frontend
 - CSS - parte stilizare si responsive
 - JavaScript - parte functionalitate
+
+## Rulare proiect
+
+Proiectul se ruleaza prin deschiderea fisierului "index.html" din interiorul directorului sau cu ajutorul unor extensi cum ar fi "Live Server"
+
+## Structura proiect
+
+```text
+.
+├── style.css
+|
+├── assets
+| └── ... (toate imaginile utilizate)
+|
+├── index.js
+|
+└── index.html
+```
